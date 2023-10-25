@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed&family=Heebo:wght@800&family=Lacquer&family=Open+Sans&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,100;1,300&family=Roboto:wght@300&family=Ubuntu:wght@500&family=Yeon+Sung&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+body {
+    font-family: Poppins;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.nav-img {
+    margin-left: 3rem;
+    width: 76px;
+    height: 42.75px;
+    margin-top: 1rem;
+
+
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-items: center;
+    gap: 2rem;
+
+}
+
+li:hover {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    cursor: pointer;
+    color: #D01C28;
+    ;
+}
+
+.nav-btn {
+    width: 75px;
+    height: 31px;
+    color: white;
+    background-color: #D01C28;
+    margin-right: 3rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    letter-spacing: 0em;
+    cursor: pointer;
+}
