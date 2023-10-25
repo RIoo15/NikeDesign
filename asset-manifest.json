@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NikeDesign/static/css/main.ff55a354.css",
+    "main.js": "/NikeDesign/static/js/main.1fc0fd46.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NikeDesign/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/NikeDesign/index.html",
+    "main.ff55a354.css.map": "/NikeDesign/static/css/main.ff55a354.css.map",
+    "main.1fc0fd46.js.map": "/NikeDesign/static/js/main.1fc0fd46.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NikeDesign/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff55a354.css",
+    "static/js/main.1fc0fd46.js"
+  ]
+}
